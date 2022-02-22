@@ -12,9 +12,7 @@ class HomePage extends StatelessWidget {
           child: Text("Initial Setup"),
         ),
       ),
-      drawer: Drawer(
-
-      ),
+      drawer: Drawer(),
     );
   }
 }
